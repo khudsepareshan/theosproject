@@ -1,0 +1,3 @@
+C:/Users/Ananya/CLionProjects/TheOSProjectOfAkhilSharma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Ananya/CLionProjects/TheOSProjectOfAkhilSharma/cmake-build-debug/CMakeFiles/TheOSProjectOfAkhilSharma.dir
+C:/Users/Ananya/CLionProjects/TheOSProjectOfAkhilSharma/cmake-build-debug/CMakeFiles/edit_cache.dir
